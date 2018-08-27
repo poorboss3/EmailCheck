@@ -1,0 +1,20 @@
+﻿  [
+    {
+      "key": "@comcast.net",
+      "type":"pop3",
+      "server": "Mail.comcast.net",
+      "port": 995
+    },
+    {
+      "key": "@hotmail.com",
+      "type": "imap4",
+      "server": "imap-mail.outlook.com",
+      "port": 993
+    },
+    {
+      "key": "@163.com",
+      "type": "pop3",
+      "server": "pop.163.com:995",
+      "port": 995
+    }
+  ]
